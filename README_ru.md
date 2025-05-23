@@ -32,14 +32,14 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                                 | Сложность   | Практика                                                                                                                           |
 |----------|----------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Восстановление предыдущей сессии Hydra                | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/hydra-restore-a-previous-hydra-session-550772'>Начать Лабораторию</a>       |
-|       02 | 📖 Атака на сервисы с поддержкой SSL с использованием... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>Начать Лабораторию</a> |
-|       03 | 📖 Настройка номеров портов в Hydra                      | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/hydra-customize-hydra-port-numbers-550765'>Начать Лабораторию</a>           |
-|       04 | 📖 Изучение специфичных опций модуля Hydra               | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/hydra-explore-hydra-module-specific-options-550767'>Начать Лабораторию</a>  |
+|       01 | 📖 Восстановление предыдущей сессии Hydra                | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/hydra-restore-a-previous-hydra-session-550772'>Начать Лабораторию</a>       |
+|       02 | 📖 Атака на сервисы с поддержкой SSL с использованием... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>Начать Лабораторию</a> |
+|       03 | 📖 Настройка номеров портов в Hydra                      | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/hydra-customize-hydra-port-numbers-550765'>Начать Лабораторию</a>           |
+|       04 | 📖 Изучение специфичных опций модуля Hydra               | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/hydra-explore-hydra-module-specific-options-550767'>Начать Лабораторию</a>  |
 
 ## Больше
 
-- 🔗 [Hydra Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hydra Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hydra Free Tutorials](https://github.com/labex-labs/hydra-free-tutorials)
+- 🔗 [Hydra Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hydra Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Hydra Бесплатные туториалы](https://github.com/labex-labs/hydra-free-tutorials)
 
