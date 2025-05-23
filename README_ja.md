@@ -30,12 +30,28 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 ## 演習
 
-|   インデックス | 名前                                         | 難易度   | 練習                                                                                                                       |
-|----------------|----------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 以前の Hydra セッションを復元する         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-restore-a-previous-hydra-session-550772'>ラボを開始</a>       |
-|             02 | 📖 Hydra を使って SSL 対応サービスを攻撃する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>ラボを開始</a> |
-|             03 | 📖 Hydra のポート番号をカスタマイズする      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-customize-hydra-port-numbers-550765'>ラボを開始</a>           |
-|             04 | 📖 Hydra モジュール固有オプションの探求      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-explore-hydra-module-specific-options-550767'>ラボを開始</a>  |
+|   インデックス | 名前                                                  | 難易度   | 練習                                                                                                                       |
+|----------------|-------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 以前の Hydra セッションを復元する                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-restore-a-previous-hydra-session-550772'>ラボを開始</a>       |
+|             02 | 📖 Hydra を使って SSL 対応サービスを攻撃する          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>ラボを開始</a> |
+|             03 | 📖 Hydra のポート番号をカスタマイズする               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-customize-hydra-port-numbers-550765'>ラボを開始</a>           |
+|             04 | 📖 Hydra を使ったブルートフォースによるパスワード生成 | 初級     | 近日公開                                                                                                                   |
+|             05 | 📖 Hydra の追加パスワードチェックを使用する           | 初級     | 近日公開                                                                                                                   |
+|             06 | 📖 コロン区切りの資格情報を使った攻撃                 | 初級     | 近日公開                                                                                                                   |
+|             07 | 📖 Hydra 攻撃におけるパスワードのループ               | 初級     | 近日公開                                                                                                                   |
+|             08 | 📖 Hydra 攻撃を早期に阻止する                         | 初級     | 近日公開                                                                                                                   |
+|             09 | 📖 Hydra で複数のターゲットを攻撃する                 | 初級     | 近日公開                                                                                                                   |
+|             10 | 📖 Hydra 攻撃結果の保存                               | 初級     | 近日公開                                                                                                                   |
+|             11 | 📖 Hydra のレスポンス待機時間を微調整する             | 初級     | 近日公開                                                                                                                   |
+|             12 | 📖 Hydra の接続間隔を制御する                         | 初級     | 近日公開                                                                                                                   |
+|             13 | 📖 Hydra のスレッド数を調整する                       | 初級     | 近日公開                                                                                                                   |
+|             14 | 📖 Hydra を使って IPv6 ターゲットを攻撃する           | 初級     | 近日公開                                                                                                                   |
+|             15 | 📖 Hydra 攻撃のデバッグ                               | 初級     | 近日公開                                                                                                                   |
+|             16 | 📖 Hydra の詳細表示モードを使用する                   | 初級     | 近日公開                                                                                                                   |
+|             17 | 📖 Hydra モジュール固有オプションの探求               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-explore-hydra-module-specific-options-550767'>ラボを開始</a>  |
+|             18 | 📖 Hydra の復元ファイルを無視する                     | 初級     | 近日公開                                                                                                                   |
+|             19 | 📖 Hydra を使って SMB サービスを攻撃する              | 初級     | 近日公開                                                                                                                   |
+|             20 | 📖 非対応プロトコルで Hydra をテストする              | 初級     | 近日公開                                                                                                                   |
 
 ## その他
 
