@@ -30,12 +30,28 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 
 ## 练习
 
-|   序号 | 名称                              | 难度   | 练习                                                                                                                     |
-|--------|-----------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 恢复之前的 Hydra 会话          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-restore-a-previous-hydra-session-550772'>开始实验</a>       |
-|     02 | 📖 使用 Hydra 攻击启用 SSL 的服务 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>开始实验</a> |
-|     03 | 📖 自定义 Hydra 端口号            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-customize-hydra-port-numbers-550765'>开始实验</a>           |
-|     04 | 📖 探索 Hydra 模块特定选项        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-explore-hydra-module-specific-options-550767'>开始实验</a>  |
+|   序号 | 名称                               | 难度   | 练习                                                                                                                     |
+|--------|------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 恢复之前的 Hydra 会话           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-restore-a-previous-hydra-session-550772'>开始实验</a>       |
+|     02 | 📖 使用 Hydra 攻击启用 SSL 的服务  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>开始实验</a> |
+|     03 | 📖 自定义 Hydra 端口号             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-customize-hydra-port-numbers-550765'>开始实验</a>           |
+|     04 | 📖 使用 Hydra 暴力破解工具生成密码 | 初级   | 即将推出                                                                                                                 |
+|     05 | 📖 使用 Hydra 进行额外的密码检查   | 初级   | 即将推出                                                                                                                 |
+|     06 | 📖 使用冒号分隔的凭证进行攻击      | 初级   | 即将推出                                                                                                                 |
+|     07 | 📖 Hydra 攻击中循环使用密码        | 初级   | 即将推出                                                                                                                 |
+|     08 | 📖 尽早阻止 Hydra 攻击             | 初级   | 即将推出                                                                                                                 |
+|     09 | 📖 使用 Hydra 攻击多个目标         | 初级   | 即将推出                                                                                                                 |
+|     10 | 📖 保存 Hydra 攻击结果             | 初级   | 即将推出                                                                                                                 |
+|     11 | 📖 微调 Hydra 的响应等待时间       | 初级   | 即将推出                                                                                                                 |
+|     12 | 📖 控制 Hydra 连接间隔             | 初级   | 即将推出                                                                                                                 |
+|     13 | 📖 调整 Hydra 线程数               | 初级   | 即将推出                                                                                                                 |
+|     14 | 📖 使用 Hydra 攻击 IPv6 目标       | 初级   | 即将推出                                                                                                                 |
+|     15 | 📖 调试 Hydra 攻击                 | 初级   | 即将推出                                                                                                                 |
+|     16 | 📖 使用 Hydra 详细模式             | 初级   | 即将推出                                                                                                                 |
+|     17 | 📖 探索 Hydra 模块特定选项         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-explore-hydra-module-specific-options-550767'>开始实验</a>  |
+|     18 | 📖 忽略 Hydra 恢复文件             | 初级   | 即将推出                                                                                                                 |
+|     19 | 📖 使用 Hydra 攻击 SMB 服务        | 初级   | 即将推出                                                                                                                 |
+|     20 | 📖 使用 Hydra 测试不支持的协议     | 初级   | 即将推出                                                                                                                 |
 
 ## 更多
 
