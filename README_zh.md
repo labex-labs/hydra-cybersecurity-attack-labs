@@ -26,20 +26,20 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                              | 难度   | 练习                                                                                                                     |
 |--------|-----------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 恢复之前的 Hydra 会话          | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-restore-a-previous-hydra-session-550772'>开始实验</a>       |
-|     02 | 📖 使用 Hydra 攻击启用 SSL 的服务 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>开始实验</a> |
-|     03 | 📖 自定义 Hydra 端口号            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-customize-hydra-port-numbers-550765'>开始实验</a>           |
-|     04 | 📖 探索 Hydra 模块特定选项        | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-explore-hydra-module-specific-options-550767'>开始实验</a>  |
+|     01 | 📖 恢复之前的 Hydra 会话          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-restore-a-previous-hydra-session-550772'>开始实验</a>       |
+|     02 | 📖 使用 Hydra 攻击启用 SSL 的服务 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>开始实验</a> |
+|     03 | 📖 自定义 Hydra 端口号            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-customize-hydra-port-numbers-550765'>开始实验</a>           |
+|     04 | 📖 探索 Hydra 模块特定选项        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-explore-hydra-module-specific-options-550767'>开始实验</a>  |
 
 ## 更多
 
-- 🔗 [Hydra Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hydra Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hydra Free Tutorials](https://github.com/labex-labs/hydra-free-tutorials)
+- 🔗 [Hydra 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hydra 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Hydra 免费教程](https://github.com/labex-labs/hydra-free-tutorials)
 
