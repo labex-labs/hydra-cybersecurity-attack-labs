@@ -32,14 +32,14 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Index | Nom                                                   | Difficulté   | Pratique                                                                                                                         |
 |---------|-------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Restaurer une session Hydra précédente             | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-restore-a-previous-hydra-session-550772'>Commencer le Lab</a>       |
-|      02 | 📖 Attaquer des services activés en SSL avec Hydra    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>Commencer le Lab</a> |
-|      03 | 📖 Personnaliser les numéros de port Hydra            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-customize-hydra-port-numbers-550765'>Commencer le Lab</a>           |
-|      04 | 📖 Explorer les Options Spécifiques des Modules Hydra | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-explore-hydra-module-specific-options-550767'>Commencer le Lab</a>  |
+|      01 | 📖 Restaurer une session Hydra précédente             | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-restore-a-previous-hydra-session-550772'>Commencer le Lab</a>       |
+|      02 | 📖 Attaquer des services activés en SSL avec Hydra    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>Commencer le Lab</a> |
+|      03 | 📖 Personnaliser les numéros de port Hydra            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-customize-hydra-port-numbers-550765'>Commencer le Lab</a>           |
+|      04 | 📖 Explorer les Options Spécifiques des Modules Hydra | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-explore-hydra-module-specific-options-550767'>Commencer le Lab</a>  |
 
 ## Plus
 
-- 🔗 [Hydra Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hydra Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hydra Free Tutorials](https://github.com/labex-labs/hydra-free-tutorials)
+- 🔗 [Hydra Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hydra Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Hydra Tutoriels Gratuits](https://github.com/labex-labs/hydra-free-tutorials)
 
