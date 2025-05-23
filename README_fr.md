@@ -30,12 +30,28 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Exercices
 
-|   Index | Nom                                                   | Difficulté   | Pratique                                                                                                                         |
-|---------|-------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Restaurer une session Hydra précédente             | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-restore-a-previous-hydra-session-550772'>Commencer le Lab</a>       |
-|      02 | 📖 Attaquer des services activés en SSL avec Hydra    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>Commencer le Lab</a> |
-|      03 | 📖 Personnaliser les numéros de port Hydra            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-customize-hydra-port-numbers-550765'>Commencer le Lab</a>           |
-|      04 | 📖 Explorer les Options Spécifiques des Modules Hydra | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-explore-hydra-module-specific-options-550767'>Commencer le Lab</a>  |
+|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                         |
+|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Restaurer une session Hydra précédente                | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-restore-a-previous-hydra-session-550772'>Commencer le Lab</a>       |
+|      02 | 📖 Attaquer des services activés en SSL avec Hydra       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>Commencer le Lab</a> |
+|      03 | 📖 Personnaliser les numéros de port Hydra               | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-customize-hydra-port-numbers-550765'>Commencer le Lab</a>           |
+|      04 | 📖 Générer des mots de passe avec l'attaque de force ... | Débutant     | Bientôt Disponible                                                                                                               |
+|      05 | 📖 Utiliser des vérifications supplémentaires de mot ... | Débutant     | Bientôt Disponible                                                                                                               |
+|      06 | 📖 Attaque avec des identifiants séparés par des deux... | Débutant     | Bientôt Disponible                                                                                                               |
+|      07 | 📖 Itérer à travers les mots de passe dans les attaqu... | Débutant     | Bientôt Disponible                                                                                                               |
+|      08 | 📖 Arrêtez les attaques Hydra dès le départ              | Débutant     | Bientôt Disponible                                                                                                               |
+|      09 | 📖 Attaquer plusieurs cibles avec Hydra                  | Débutant     | Bientôt Disponible                                                                                                               |
+|      10 | 📖 Sauvegarder les résultats d'attaque Hydra             | Débutant     | Bientôt Disponible                                                                                                               |
+|      11 | 📖 Ajuster finement les délais d'attente des réponses... | Débutant     | Bientôt Disponible                                                                                                               |
+|      12 | 📖 Contrôler les intervalles de connexion d'Hydra        | Débutant     | Bientôt Disponible                                                                                                               |
+|      13 | 📖 Ajuster le nombre de threads d'Hydra                  | Débutant     | Bientôt Disponible                                                                                                               |
+|      14 | 📖 Attaquer des cibles IPv6 avec Hydra                   | Débutant     | Bientôt Disponible                                                                                                               |
+|      15 | 📖 Déboguer les attaques Hydra                           | Débutant     | Bientôt Disponible                                                                                                               |
+|      16 | 📖 Utiliser le mode verbeux d'Hydra                      | Débutant     | Bientôt Disponible                                                                                                               |
+|      17 | 📖 Explorer les Options Spécifiques des Modules Hydra    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-explore-hydra-module-specific-options-550767'>Commencer le Lab</a>  |
+|      18 | 📖 Ignorer les fichiers de restauration Hydra            | Débutant     | Bientôt Disponible                                                                                                               |
+|      19 | 📖 Attaquer les services SMB avec Hydra                  | Débutant     | Bientôt Disponible                                                                                                               |
+|      20 | 📖 Tester Hydra avec des protocoles non pris en charg... | Débutant     | Bientôt Disponible                                                                                                               |
 
 ## Plus
 
