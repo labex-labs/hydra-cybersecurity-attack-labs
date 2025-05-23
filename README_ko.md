@@ -32,14 +32,14 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                    | 난이도   | 연습                                                                                                                      |
 |----------|-----------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 이전 Hydra 세션 복원                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-restore-a-previous-hydra-session-550772'>실습 시작</a>       |
-|       02 | 📖 Hydra 를 이용한 SSL 지원 서비스 공격 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>실습 시작</a> |
-|       03 | 📖 Hydra 포트 번호 사용자 정의          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-customize-hydra-port-numbers-550765'>실습 시작</a>           |
-|       04 | 📖 Hydra 모듈별 옵션 탐색               | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-explore-hydra-module-specific-options-550767'>실습 시작</a>  |
+|       01 | 📖 이전 Hydra 세션 복원                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-restore-a-previous-hydra-session-550772'>실습 시작</a>       |
+|       02 | 📖 Hydra 를 이용한 SSL 지원 서비스 공격 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>실습 시작</a> |
+|       03 | 📖 Hydra 포트 번호 사용자 정의          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-customize-hydra-port-numbers-550765'>실습 시작</a>           |
+|       04 | 📖 Hydra 모듈별 옵션 탐색               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-explore-hydra-module-specific-options-550767'>실습 시작</a>  |
 
 ## 더 보기
 
-- 🔗 [Hydra Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Hydra Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Hydra Free Tutorials](https://github.com/labex-labs/hydra-free-tutorials)
+- 🔗 [Hydra 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hydra 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Hydra 무료 튜토리얼](https://github.com/labex-labs/hydra-free-tutorials)
 
