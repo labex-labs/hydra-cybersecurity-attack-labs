@@ -30,28 +30,26 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 연습
 
-|   인덱스 | 이름                                         | 난이도   | 연습                                                                                                                      |
-|----------|----------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 이전 Hydra 세션 복원                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-restore-a-previous-hydra-session-550772'>실습 시작</a>       |
-|       02 | 📖 Hydra 를 이용한 SSL 지원 서비스 공격      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>실습 시작</a> |
-|       03 | 📖 Hydra 포트 번호 사용자 정의               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-customize-hydra-port-numbers-550765'>실습 시작</a>           |
-|       04 | 📖 Generate Passwords with Hydra Brute-Force | 초급     | 곧 출시                                                                                                                   |
-|       05 | 📖 Use Additional Hydra Password Checks      | 초급     | 곧 출시                                                                                                                   |
-|       06 | 📖 Attack with Colon-Separated Credentials   | 초급     | 곧 출시                                                                                                                   |
-|       07 | 📖 Loop Passwords in Hydra Attacks           | 초급     | 곧 출시                                                                                                                   |
-|       08 | 📖 Stop Hydra Attacks Early                  | 초급     | 곧 출시                                                                                                                   |
-|       09 | 📖 Attack Multiple Targets with Hydra        | 초급     | 곧 출시                                                                                                                   |
-|       10 | 📖 Save Hydra Attack Results                 | 초급     | 곧 출시                                                                                                                   |
-|       11 | 📖 Fine-Tune Hydra Response Wait Times       | 초급     | 곧 출시                                                                                                                   |
-|       12 | 📖 Control Hydra Connection Intervals        | 초급     | 곧 출시                                                                                                                   |
-|       13 | 📖 Adjust Hydra Thread Counts                | 초급     | 곧 출시                                                                                                                   |
-|       14 | 📖 Attack IPv6 Targets with Hydra            | 초급     | 곧 출시                                                                                                                   |
-|       15 | 📖 Debug Hydra Attacks                       | 초급     | 곧 출시                                                                                                                   |
-|       16 | 📖 Use Hydra Verbose Mode                    | 초급     | 곧 출시                                                                                                                   |
-|       17 | 📖 Hydra 모듈별 옵션 탐색                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-explore-hydra-module-specific-options-550767'>실습 시작</a>  |
-|       18 | 📖 Ignore Hydra Restore Files                | 초급     | 곧 출시                                                                                                                   |
-|       19 | 📖 Attack SMB Services with Hydra            | 초급     | 곧 출시                                                                                                                   |
-|       20 | 📖 Test Hydra with Unsupported Protocols     | 초급     | 곧 출시                                                                                                                   |
+|   인덱스 | 이름                                      | 난이도   | 연습                                                                                                                         |
+|----------|-------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 이전 Hydra 세션 복원                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-restore-a-previous-hydra-session-550772'>실습 시작</a>          |
+|       02 | 📖 Hydra 를 이용한 SSL 지원 서비스 공격   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>실습 시작</a>    |
+|       03 | 📖 Hydra 포트 번호 사용자 정의            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-customize-hydra-port-numbers-550765'>실습 시작</a>              |
+|       04 | 📖 Hydra 를 이용한 무차별 공격 암호 생성  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-generate-passwords-with-hydra-brute-force-550769'>실습 시작</a> |
+|       05 | 📖 Hydra 추가 비밀번호 검사 사용          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-use-additional-hydra-password-checks-550776'>실습 시작</a>      |
+|       06 | 📖 콜론으로 구분된 자격 증명으로 공격하기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-with-colon-separated-credentials-550763'>실습 시작</a>   |
+|       07 | 📖 Hydra 공격에서 비밀번호 반복           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-loop-passwords-in-hydra-attacks-550771'>실습 시작</a>           |
+|       08 | 📖 Hydra 공격 조기 중단                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-stop-hydra-attacks-early-550774'>실습 시작</a>                  |
+|       09 | 📖 Hydra 를 이용한 다중 대상 공격         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-multiple-targets-with-hydra-550760'>실습 시작</a>        |
+|       10 | 📖 Hydra 공격 결과 저장                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-save-hydra-attack-results-550773'>실습 시작</a>                 |
+|       11 | 📖 Hydra 응답 대기 시간 미세 조정         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-fine-tune-hydra-response-wait-times-550768'>실습 시작</a>       |
+|       12 | 📖 Hydra 연결 간격 제어                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-control-hydra-connection-intervals-550764'>실습 시작</a>        |
+|       13 | 📖 Hydra 스레드 수 조정                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-adjust-hydra-thread-counts-550758'>실습 시작</a>                |
+|       14 | 📖 Hydra 를 이용한 IPv6 공격              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-ipv6-targets-with-hydra-550759'>실습 시작</a>            |
+|       15 | 📖 Hydra 상세 출력 모드 사용              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-use-hydra-verbose-mode-550777'>실습 시작</a>                    |
+|       16 | 📖 Hydra 모듈별 옵션 탐색                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-explore-hydra-module-specific-options-550767'>실습 시작</a>     |
+|       17 | 📖 Hydra 복구 파일 무시하기               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-ignore-hydra-restore-files-550770'>실습 시작</a>                |
+|       18 | 📖 Hydra 를 이용한 SMB 서비스 공격        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-smb-services-with-hydra-550761'>실습 시작</a>            |
 
 ## 더 보기
 
