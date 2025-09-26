@@ -18,24 +18,24 @@ In this course, master Hydra cybersecurity attack techniques through hands-on la
 
 |   Index | Name                                            | Difficulty   | Practice                                                                                                                  |
 |---------|-------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 Restore a Previous Hydra Session          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-restore-a-previous-hydra-session-550772'>Start Lab</a>          |
-|      02 | 📖 🟢 Attack SSL-Enabled Services with Hydra    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>Start Lab</a>    |
-|      03 | 📖 🟢 Customize Hydra Port Numbers              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-customize-hydra-port-numbers-550765'>Start Lab</a>              |
-|      04 | 📖 🟢 Generate Passwords with Hydra Brute-Force | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-generate-passwords-with-hydra-brute-force-550769'>Start Lab</a> |
-|      05 | 📖 🟢 Use Additional Hydra Password Checks      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-use-additional-hydra-password-checks-550776'>Start Lab</a>      |
-|      06 | 📖 🟢 Attack with Colon-Separated Credentials   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-with-colon-separated-credentials-550763'>Start Lab</a>   |
-|      07 | 📖 🟢 Loop Passwords in Hydra Attacks           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-loop-passwords-in-hydra-attacks-550771'>Start Lab</a>           |
-|      08 | 📖 🟢 Stop Hydra Attacks Early                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-stop-hydra-attacks-early-550774'>Start Lab</a>                  |
-|      09 | 📖 🟢 Attack Multiple Targets with Hydra        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-multiple-targets-with-hydra-550760'>Start Lab</a>        |
-|      10 | 📖 🟢 Save Hydra Attack Results                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-save-hydra-attack-results-550773'>Start Lab</a>                 |
-|      11 | 📖 🟢 Fine-Tune Hydra Response Wait Times       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-fine-tune-hydra-response-wait-times-550768'>Start Lab</a>       |
-|      12 | 📖 🟢 Control Hydra Connection Intervals        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-control-hydra-connection-intervals-550764'>Start Lab</a>        |
-|      13 | 📖 🟢 Adjust Hydra Thread Counts                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-adjust-hydra-thread-counts-550758'>Start Lab</a>                |
-|      14 | 📖 🔵 Attack IPv6 Targets with Hydra            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-ipv6-targets-with-hydra-550759'>Start Lab</a>            |
-|      15 | 📖 🟢 Use Hydra Verbose Mode                    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-use-hydra-verbose-mode-550777'>Start Lab</a>                    |
-|      16 | 📖 🟢 Explore Hydra Module-Specific Options     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-explore-hydra-module-specific-options-550767'>Start Lab</a>     |
-|      17 | 📖 🟢 Ignore Hydra Restore Files                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-ignore-hydra-restore-files-550770'>Start Lab</a>                |
-|      18 | 📖 🟢 Attack SMB Services with Hydra            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-smb-services-with-hydra-550761'>Start Lab</a>            |
+|      01 | 📖 🆓 Restore a Previous Hydra Session          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-restore-a-previous-hydra-session-550772'>Start Lab</a>          |
+|      02 | 📖 🆓 Attack SSL-Enabled Services with Hydra    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-ssl-enabled-services-with-hydra-550762'>Start Lab</a>    |
+|      03 | 📖 🆓 Customize Hydra Port Numbers              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-customize-hydra-port-numbers-550765'>Start Lab</a>              |
+|      04 | 📖 🆓 Generate Passwords with Hydra Brute-Force | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-generate-passwords-with-hydra-brute-force-550769'>Start Lab</a> |
+|      05 | 📖 🆓 Use Additional Hydra Password Checks      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-use-additional-hydra-password-checks-550776'>Start Lab</a>      |
+|      06 | 📖 🆓 Attack with Colon-Separated Credentials   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-with-colon-separated-credentials-550763'>Start Lab</a>   |
+|      07 | 📖 🆓 Loop Passwords in Hydra Attacks           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-loop-passwords-in-hydra-attacks-550771'>Start Lab</a>           |
+|      08 | 📖  Stop Hydra Attacks Early                    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-stop-hydra-attacks-early-550774'>Start Lab</a>                  |
+|      09 | 📖  Attack Multiple Targets with Hydra          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-multiple-targets-with-hydra-550760'>Start Lab</a>        |
+|      10 | 📖  Save Hydra Attack Results                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-save-hydra-attack-results-550773'>Start Lab</a>                 |
+|      11 | 📖  Fine-Tune Hydra Response Wait Times         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-fine-tune-hydra-response-wait-times-550768'>Start Lab</a>       |
+|      12 | 📖  Control Hydra Connection Intervals          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-control-hydra-connection-intervals-550764'>Start Lab</a>        |
+|      13 | 📖  Adjust Hydra Thread Counts                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-adjust-hydra-thread-counts-550758'>Start Lab</a>                |
+|      14 | 📖  Attack IPv6 Targets with Hydra              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-ipv6-targets-with-hydra-550759'>Start Lab</a>            |
+|      15 | 📖  Use Hydra Verbose Mode                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-use-hydra-verbose-mode-550777'>Start Lab</a>                    |
+|      16 | 📖  Explore Hydra Module-Specific Options       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-explore-hydra-module-specific-options-550767'>Start Lab</a>     |
+|      17 | 📖  Ignore Hydra Restore Files                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-ignore-hydra-restore-files-550770'>Start Lab</a>                |
+|      18 | 📖  Attack SMB Services with Hydra              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-smb-services-with-hydra-550761'>Start Lab</a>            |
 
 ## Environment
 
